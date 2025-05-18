@@ -1,3 +1,6 @@
+
+# ini adalah contoh dari skrip golang
+
 import (
 	"encoding/json"
 	"fmt"
